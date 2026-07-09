@@ -1,61 +1,123 @@
+<div align="center">
 
-                                              ╔══════════════════════════════════════════════════════╗
-                                              
-                                                          JUAN ESTEBAN CARDONA BATERO
-                                              
-                                                      Backend Developer | Java & Spring Boot
-                                              
-                                                      Java • Spring Boot • Angular
-                                                        PostgreSQL • MongoDB • Docker
-                                              
-                                                  Building secure and scalable backend applications.
-                                              
-                                              ╚══════════════════════════════════════════════════════╝
+# 👋 Hi, I'm Juan Esteban Cardona Batero
 
-<h1 align="center">
-Hi 👋 I'm Juan Esteban Cardona
-</h1>
+### Java Backend Developer | Software Development Student
 
-<h3 align="center">
-Backend Java Developer from Colombia 🇨🇴
-</h3>
+Colombia, Armenia - Quindio
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Backend+Java+Developer;Spring+Boot+Developer;REST+API+Developer;Angular+Developer;Always+Learning+New+Things"/>
-</p>
+Building secure and scalable backend applications with Java and Spring Boot.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;Angular+Developer;React+Developer;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a Software Development student from Colombia passionate about backend development with Java and Spring Boot.
+I'm a Software Development student from Colombia passionate about building modern, secure, and scalable applications.
 
-I enjoy designing REST APIs, implementing secure authentication systems, learning software architecture, and building applications that solve real-world problems.
+My main focus is backend development using **Java** and **Spring Boot**, where I enjoy designing REST APIs, implementing secure authentication with Spring Security & JWT, and working with relational and NoSQL databases.
 
-Currently, I'm strengthening my skills through academic and personal projects while continuously learning modern backend technologies.
+I also have experience developing frontend applications with **Angular** and **React**, allowing me to build complete full-stack applications.
 
-### 🚀 Currently Focused On
+I'm constantly improving my skills through academic and personal projects while learning software engineering best practices.
+
+---
+
+# 🚀 Current Focus
 
 - ☕ Java
 - 🌱 Spring Boot
 - 🔐 Spring Security & JWT
+- 🌐 REST APIs
 - ⚡ Angular
+- ⚛ React
 - 🐘 PostgreSQL
+- 🐬 MySQL
 - 🍃 MongoDB
 - 🐳 Docker
-- ☁️ AWS (Learning)
-- 🏗 Microservices (Learning)
 - 🔀 Git & GitHub
-
-My goal is to become a Backend Engineer specialized in Java, Cloud Technologies, and Microservices.
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,postgres,mongodb,docker,git,github,maven,idea,vscode"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
 </p>
+
+---
+
+## 🚀 Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,maven"/>
+</p>
+
+### Technologies
+
+- Spring Boot
+- Spring Security
+- JWT Authentication
+- REST APIs
+- Maven
+
+---
+
+## 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,scss"/>
+</p>
+
+### Technologies
+
+- Angular
+- React
+- TypeScript
+- HTML5
+- CSS3
+- SCSS
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
+
+### Database Systems
+
+- PostgreSQL
+- MySQL
+- MongoDB
+
+---
+
+## 🛠 Tools & Deployment
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode,postman"/>
+</p>
+
+### Tools
+
+- Docker
+- Git
+- GitHub
+- IntelliJ IDEA
+- Visual Studio Code
+- Postman
+
+### Deployment Platforms
+
+- Render
+- Railway
 
 ---
 
@@ -63,9 +125,9 @@ My goal is to become a Backend Engineer specialized in Java, Cloud Technologies,
 
 ## GreenTravel
 
-GreenTravel is a sustainable tourism platform designed to connect travelers with eco-friendly destinations while promoting responsible tourism.
+GreenTravel is a sustainable tourism platform developed with **Spring Boot** and **Angular** that promotes responsible tourism through a modern and secure web application.
 
-### 🚀 Tech Stack
+### 🚀 Technologies
 
 - Java 21
 - Spring Boot
@@ -77,39 +139,22 @@ GreenTravel is a sustainable tourism platform designed to connect travelers with
 - Docker
 - Maven
 - REST API
-- Git & GitHub
 
-### ✨ Main Features
+### ✨ Features
 
-✔ User Authentication
-
-✔ JWT Security
-
-✔ Role Management
-
-✔ User Management
-
-✔ Tourism Management
-
-✔ Reservations
-
-✔ Reviews
-
-✔ REST API
-
-✔ API Documentation
+- ✅ User Authentication
+- ✅ JWT Security
+- ✅ Role Management
+- ✅ User Management
+- ✅ Tourism Management
+- ✅ Reservations
+- ✅ Reviews
+- ✅ REST API
+- ✅ API Documentation
 
 ---
 
 # 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EstebanKrD&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstebanKrD&layout=compact&theme=radical"/>
-
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=EstebanKrD&theme=radical"/>
@@ -120,29 +165,26 @@ GreenTravel is a sustainable tourism platform designed to connect travelers with
 # 📚 Currently Learning
 
 - Spring Security
-- JWT Authentication
-- Docker
-- Microservices
-- AWS
-- CI/CD
 - Clean Architecture
-- Software Design Patterns
+- Design Patterns
+- Docker Best Practices
+- Microservices
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals
 
-- Build secure and scalable backend applications
-- Master Spring Boot
-- Learn Microservices Architecture
-- Deploy projects on AWS
-- Improve Docker and DevOps skills
-- Contribute to Open Source Projects
-- Strengthen Clean Architecture knowledge
+- 🚀 Build secure and scalable backend applications
+- ☕ Master Spring Boot
+- 🔐 Improve Spring Security & JWT
+- 🏗 Learn Microservices Architecture
+- 🐳 Improve Docker skills
+- 🌍 Contribute to Open Source
+- 📖 Continue learning every day
 
 ---
 
-# 📫 Contact
+# 📫 Connect with Me
 
 <p align="center">
 
@@ -165,13 +207,15 @@ GreenTravel is a sustainable tourism platform designed to connect travelers with
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/EstebanKrD/EstebanKrD/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://github.com/EstebanKrD/EstebanKrD/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+### ⭐ Thanks for visiting my profile!
 
-</p>
+Always learning, always building, always improving. 🚀
+
+</div>

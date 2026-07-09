@@ -112,9 +112,7 @@ GreenTravel is a sustainable tourism platform designed to connect travelers with
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=EstebanKrD&theme=radical"/>
-
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=EstebanKrD&theme=radical"/>
 </p>
 
 ---
